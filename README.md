@@ -15,7 +15,7 @@ To uncover insights from customer data to support strategic marketing and produc
 - Jupyter Notebook
 
 ## 📁 Files
-- `Customer_Analysis.ipynb` — Main Jupyter notebook
+- `Exploratory Data Analysis (EDA) on Retail Sales Data.ipynb` — Main Jupyter notebook
 - `retailsalesdataset.csv` — The dataset
 
 
